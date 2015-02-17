@@ -1,0 +1,5 @@
+server {
+  root /var/www;
+  index index.html;
+  server_name localhost;
+}
