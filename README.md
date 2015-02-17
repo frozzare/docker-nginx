@@ -1,5 +1,5 @@
 # docker-nginx
-Simple nginx docker with Alpine
+Simple nginx Docker with Alpine
 
 # Dockerfile
 ```
