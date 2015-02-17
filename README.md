@@ -4,6 +4,6 @@ Simple nginx docker with Alpine
 # Dockerfile
 ```
 FROM frozzare/nginx
-ADD src/ /var/www
+ADD www/ /var/www
 CMD "nginx"
 ```
