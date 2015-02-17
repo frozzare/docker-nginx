@@ -1,5 +1,5 @@
 # docker-nginx
-Simple nginx Docker with Alpine
+A Docker image to serve static websites
 
 # Dockerfile
 ```
